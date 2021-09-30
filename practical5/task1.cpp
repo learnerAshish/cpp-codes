@@ -51,7 +51,7 @@ cout<<"longdouble function value:";
 void widecharFunction()
 {
 cout<<"widechar function value:";
- wchar_t a='o';
+ wchar_t a=L'\0';
  cout<<a<<endl;
 }
 int main()
